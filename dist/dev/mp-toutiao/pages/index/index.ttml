@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{a}}</text><captcha tt:if="{{b}}" id="captcha" bindonSuccess="{{c}}" u-t="m" u-i="bd6a08b6-0" bind:__l="__l" u-p="{{d}}"/></view><button class="submit" bindtap="{{e}}">打开</button></view>
