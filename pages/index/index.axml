@@ -1,0 +1,6 @@
+
+<view>
+  <captcha id="captcha" a:if="{{loadCaptcha}}" gt="{{gt}}" challenge="{{challenge}}" offline="{{offline}}" onSuccess="captchaSuccess" lang="zh-cn" onReady="captchaReady" onClose="captchaClose" onError="captchaError" toReset = "{{toReset}}" styleConfig="{{styleConfig}}" product="bind" verify = "{{verify}}"
+  />
+<button class='btn' id="btnSubmit" onTap='verify'>打开验证码</button>
+</view>

@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "defaultTitle": "My App"
+  },
+  "plugins": {
+    "captcha": {
+      "version": "*", 
+      "provider": "2021002124682563"
+    }
+  }
+}
