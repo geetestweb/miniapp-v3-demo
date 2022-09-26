@@ -1,0 +1,16 @@
+{
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true
+  },
+  "appid": "testAppId",
+  "projectname": "uniapp-miniapp-v3-demo",
+  "condition": {
+    "miniprogram": {
+      "current": -1
+    }
+  }
+}
