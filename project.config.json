@@ -1,0 +1,21 @@
+{
+    "setting": {
+        "urlCheck": false,
+        "es6": true,
+        "newFeature": false,
+        "postcss": false,
+        "mockUpdate": false,
+        "minified": false,
+        "scripts": false
+    },
+    "scripts": {},
+    "appid": "testAppId",
+    "projectname": "geetest",
+    "projectType": "app",
+    "condition": {
+        "miniprogram": {
+            "current": -1,
+            "list": []
+        }
+    }
+}

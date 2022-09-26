@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "captcha": "/components/geetest/captcha"
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "pages": [
+        "pages/index/index",
+        "pages/clickDemo/click",
+        "pages/slideDemo/slide",
+        "pages/bindDemo/bindDemo"
+    ],
+    "window": {
+        "backgroundTextStyle": "light",
+        "navigationBarTitleText": " 极验字节跳动小程序demo",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#fff"
+    }
+}
