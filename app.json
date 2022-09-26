@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/clickDemo/click",
+    "pages/slideDemo/slide",
+    "pages/bindDemo/bindDemo"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "极验微信小程序插件demo",
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff"
+  },
+  "sitemapLocation": "sitemap.json"
+}
