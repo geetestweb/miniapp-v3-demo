@@ -1,0 +1,4 @@
+<view>
+  <captcha id="captcha" a:if="{{loadCaptcha}}" gt="{{gt}}" challenge="{{challenge}}" offline="{{offline}}" onSuccess="captchaSuccess" lang="zh-cn"    product="bind" verify = "{{verify}}"
+  />
+</view>
