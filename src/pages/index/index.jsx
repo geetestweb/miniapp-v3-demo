@@ -60,8 +60,7 @@ export default class Index extends Component {
             gt={gt}
             verify={ verify}
             challenge={challenge}
-            onSuccess={this.captchaSuccess}
-            bindonSuccess={() => console.log("success")}
+            onsuccess={this.captchaSuccess}
             product="bind"
           ></captcha>
         ) : (
